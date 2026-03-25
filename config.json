@@ -1,0 +1,10 @@
+{
+    "taille": 12,
+    "nb_drones": 6,
+    "nb_tempetes": 4,
+    "nb_survivants": 10,
+    "nb_batiments": 12,
+    "batterie_initiale": 10,
+    "recharge_hospital": 3,
+    "batterie_max": 10
+}
