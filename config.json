@@ -6,5 +6,5 @@
     "nb_batiments": 12,
     "batterie_initiale": 10,
     "recharge_hospital": 3,
-    "batterie_max": 10
+    "batterie_max": 20
 }
